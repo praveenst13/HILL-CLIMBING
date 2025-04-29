@@ -1,6 +1,6 @@
 <h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
-<h3>Name:     Sam Israel D        </h3>
-<h3>Register Number:      212222230128       </h3>
+<h3>Name:     Praveen S        </h3>
+<h3>Register Number:      212222240077      </h3>
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
 <h2> Theory: </h2>
